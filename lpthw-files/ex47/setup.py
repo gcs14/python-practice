@@ -16,4 +16,4 @@ config = {
     'name': 'projectname'
 }
 
-setuo(**config)
+setup(**config)
